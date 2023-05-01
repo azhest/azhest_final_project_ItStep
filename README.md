@@ -3,4 +3,4 @@ the final project of the course "Data Analytical" of the ItStep Academy, Minsk. 
 
 смотри описание базы и основные задачи аналитики файл 
 
-"схема и описание таблиц.docx"
+"Жестков А. Н. План финального проекта"
